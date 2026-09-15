@@ -27,10 +27,10 @@ Introducción al uso de Deepnote como entorno de trabajo colaborativo para el de
 
 Introducción a los conceptos básicos de programación utilizando Python.
 
-[Ver TP02 - Python] (https://github.com/Catafrione/DSIA_Frione_Catalina/blob/main/002-PythonIntroduccion/TP02_PythonIntroduccion.ipynb)
+[Ver TP02 - Python](https://github.com/Catafrione/DSIA_Frione_Catalina/blob/main/002-PythonIntroduccion/TP02_PythonIntroduccion.ipynb)
 
 ### TP03 - Python Librerías 
 
 Ejercicios prácticos realizados durante el curso para conocer y utilizar diferentes librerías de Python.
 
-[Ver TP03 - Python] (https://github.com/Catafrione/DSIA_Frione_Catalina/blob/main/003-PythonLibrerias/TP03_PythonLibrerias.ipynb)
+[Ver TP03 - Python](https://github.com/Catafrione/DSIA_Frione_Catalina/blob/main/003-PythonLibrerias/TP03_PythonLibrerias.ipynb)
