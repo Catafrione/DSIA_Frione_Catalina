@@ -27,3 +27,7 @@ Introducción al uso de Deepnote como entorno de trabajo colaborativo para el de
 Introducción a los conceptos básicos de programación utilizando Python.
 
 [Ver TP02 - Python](002-PythonIntroduccion/002%20-%20Python%20Repaso%20-%20Frione%20Catalina.ipynb)
+
+### TP03 - Python Librerías
+
+Ejercicios prácticos realizados durante el curso para conocer y utilizar diferentes librerías de Python.
