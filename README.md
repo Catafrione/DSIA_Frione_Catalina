@@ -20,14 +20,17 @@ Durante el curso, uno de los aspectos que más me interesó fue aprender a traba
 
 Introducción al uso de Deepnote como entorno de trabajo colaborativo para el desarrollo de actividades relacionadas con datos y programación.
 
-[Ver TP01 - DeepNote](001-DeepNote/001%20-%20Deepnote%20-%20Frione%20Catalina.ipynb)
+[Ver TP01 - DeepNote](https://github.com/Catafrione/DSIA_Frione_Catalina/blob/main/001-DeepNote/TP01_DeepNote.ipynb)
+
 
 ### TP02 - Introducción a la Programación en Python
 
 Introducción a los conceptos básicos de programación utilizando Python.
 
-[Ver TP02 - Python](002-PythonIntroduccion/002%20-%20Python%20Repaso%20-%20Frione%20Catalina.ipynb)
+[Ver TP02 - Python] (https://github.com/Catafrione/DSIA_Frione_Catalina/blob/main/002-PythonIntroduccion/TP02_PythonIntroduccion.ipynb)
 
-### TP03 - Python Librerías
+### TP03 - Python Librerías 
 
 Ejercicios prácticos realizados durante el curso para conocer y utilizar diferentes librerías de Python.
+
+[Ver TP03 - Python] (https://github.com/Catafrione/DSIA_Frione_Catalina/blob/main/003-PythonLibrerias/TP03_PythonLibrerias.ipynb)
